@@ -2103,3 +2103,26 @@ Received Import Request.
 Start importing Assets/Art/Animations/Robot.controller using Guid(9b5fad9f69a534490bf09ce7ecaf1db1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ee5181d31a6d10b49e0393b55ed109') in 0.003899 seconds
   Import took 0.008099 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000916 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 261.4 MB.
+System memory in use after: 261.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2416.
+Total: 1.924088 ms (FindLiveObjects: 0.215514 ms CreateObjectMapping: 0.064979 ms MarkObjects: 1.554337 ms  DeleteObjects: 0.088378 ms)
+
